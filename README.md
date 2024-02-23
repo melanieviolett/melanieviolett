@@ -3,7 +3,7 @@
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJxaWwzaDJzZjc5NWxtb3N3MDB2ZjVubnVkdHdrenUyMTFlNWM4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif)
 
 ##### ☁️ Currently, I'm learning about recommender systems and convolutional neural networks! 
-##### 🌷  I'm currently working on adding a blog section on my gardening website.  
+##### 🌷  I'm currently working on adding a blog section to my gardening website.  
 <!--
 **melanieviolett/melanieviolett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
