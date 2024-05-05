@@ -1,6 +1,6 @@
 ### Hi, I'm Melanie! 
 #### I am a senior studying for my computer science bachelor's degree.
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJxaWwzaDJzZjc5NWxtb3N3MDB2ZjVubnVkdHdrenUyMTFlNWM4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif)
+
 
 ##### ☁️ Currently, I'm learning about recommender systems and convolutional neural networks! 
 ##### 🌷  I'm currently working on adding a blog section to my gardening website.  
