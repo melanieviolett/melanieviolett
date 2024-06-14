@@ -3,7 +3,7 @@
 
 
 ##### ☁️ Currently, I'm learning about PostgreSQL and Prisma!
-##### 🌷  I'm currently working on adding a blog section to my gardening website.  
+##### 🌷  I'm working on adding a blog section to my gardening website.  
 <!--
 **melanieviolett/melanieviolett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
