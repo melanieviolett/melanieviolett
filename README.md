@@ -1,9 +1,9 @@
-### Hi, I'm Melanie! 
-#### I am a senior studying for my computer science bachelor's degree.
+## Hi, I'm Melanie! :)
+### I am a senior studying for my computer science bachelor's degree.
 
 
-##### ☁️ Currently, I'm learning about PostgreSQL and Prisma!
-##### 🌷  I'm working on adding a blog section to my gardening website.  
+#### ☁️ Currently, I'm learning about PostgreSQL and Prisma!
+#### 🌷  I'm working on adding a blog section to my gardening website.  
 <!--
 **melanieviolett/melanieviolett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
