@@ -1,12 +1,11 @@
-## Hi, I'm Melanie! :)
-### I am a senior studying for my computer science bachelor's degree.
+## Hi, I'm Melanie!
 
-
+#### 💻 I am a senior studying for my computer science bachelor's degree.
 #### ☁️ Currently, I'm learning about PostgreSQL and Prisma!
 #### 🌷  I'm working on adding a blog section to my gardening website. 
 
-
-## Tech Stack
+---
+### Tech Stack
 
 #### Frontend
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,react,figma,tailwind,bootstrap)](https://skillicons.dev)
