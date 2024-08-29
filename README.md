@@ -5,6 +5,7 @@
 #### 🌷  I'm working on adding a blog section to my gardening website. 
 
 ---
+<!--
 ### Tech Stack
 
 #### Frontend
@@ -18,7 +19,7 @@
 
 #### Programming Languages and Tools 
 [![Tools](https://skillicons.dev/icons?i=aws,docker,c,cs,java,postman,py,vercel,netlify,heroku)](https://skillicons.dev)
-
+-->
 <!--
 **melanieviolett/melanieviolett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
