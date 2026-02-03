@@ -4,8 +4,17 @@
 #### ☁️ Currently, I'm learning about PostgreSQL and Prisma!
 #### 🌿 I'm working on adding a blog section to my gardening website. 
 -->
-
-
+## Hi, I’m Melanie!
+I’m a Software Engineer with experience building backend services, APIs, and cloud-based infrastructure. I’ve worked with Java, Python, Typescript and AWS to build scalable and reliable systems.
+#### 🖥️ Technical Interests
+- Backend development & REST APIs
+- Cloud infrastructure (AWS)
+- Testing & CI/CD
+- Bioinformatics and data processing
+#### 🌱 Featured Projects
+- Grow Your Garden – Full-stack web project using Next.js and modern frontend patterns
+- LAGG Bioinformatics Data Tool (Private) – Python-based data processing for biological sequence data
+- Memory Mosaics Contact Manager Application – Built REST-style API endpoints for CRUD operations and authentication, integrated with a MySQL database.
 <!--
 ### Tech Stack
 
